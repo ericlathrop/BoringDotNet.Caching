@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoringDotNet.Caching", "BoringDotNet.Caching\BoringDotNet.Caching.csproj", "{8C659ABC-685D-4C58-A87D-AC6546D1CE44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoringDotNet.Caching.Tests", "BoringDotNet.Caching.Tests\BoringDotNet.Caching.Tests.csproj", "{27E77759-0A9B-46EE-B495-16D16F8066C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoringDotNet.Caching.Web", "BoringDotNet.Caching.Web\BoringDotNet.Caching.Web.csproj", "{0ECD2072-5F42-44B1-AE28-C582A1D461F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoringDotNet.Caching.Memcached", "BoringDotNet.Caching.Memcached\BoringDotNet.Caching.Memcached.csproj", "{EB045C98-F5EE-4545-87EE-48FD389DE767}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C659ABC-685D-4C58-A87D-AC6546D1CE44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C659ABC-685D-4C58-A87D-AC6546D1CE44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C659ABC-685D-4C58-A87D-AC6546D1CE44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C659ABC-685D-4C58-A87D-AC6546D1CE44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27E77759-0A9B-46EE-B495-16D16F8066C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27E77759-0A9B-46EE-B495-16D16F8066C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27E77759-0A9B-46EE-B495-16D16F8066C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27E77759-0A9B-46EE-B495-16D16F8066C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ECD2072-5F42-44B1-AE28-C582A1D461F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ECD2072-5F42-44B1-AE28-C582A1D461F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ECD2072-5F42-44B1-AE28-C582A1D461F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ECD2072-5F42-44B1-AE28-C582A1D461F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB045C98-F5EE-4545-87EE-48FD389DE767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB045C98-F5EE-4545-87EE-48FD389DE767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB045C98-F5EE-4545-87EE-48FD389DE767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB045C98-F5EE-4545-87EE-48FD389DE767}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
