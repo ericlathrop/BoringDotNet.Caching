@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("BoringDotNet.Caching")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Caching interfaces, implementations, and cache key generation.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Eric Lathrop")]
 [assembly: AssemblyProduct("BoringDotNet.Caching")]
